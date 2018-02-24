@@ -1,0 +1,146 @@
+Date of Birth:  [**2082-3-21**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Levaquin
+
+Attending:[**First Name3 (LF) 2195**]
+Chief Complaint:
+nausea, vomiting
+
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+37 woman w/ poorly controlled Type 1 diabetes mellitus w/ neuropathy,
+nephropathy, HTN, gastroparesis, CKD and retinopathy, recently
+hospitalized for hypovolemia and autonomic
+neuropathy who is now returning w/ 5d history of worsening nausea, 
+vomiting with coffee-ground emesis, chills, and dyspnea on exertion.
+She had diarrhea last week.
+.
+
+She was started on an insulin drip at 5 units/hr and 3L NS
+boluses. Also aspirin 325mg PO and Morphine 4mg IVx1 for pain.
+CXr was clear.  EKG NAD.
+.
+Review of systems: otherwise negative.
+
+Past Medical History:
+Type 1 diabetes mellitis w/ neuropathy, nephropathy, and
+retinopathy - 2 episodes of DKA
+HTN - 5 years
+gastroparesis - 1.5 years
+CKD - stage III, baseline Cr 2.4-2.5, proteinuria
+L1 vertebral fracture
+Systolic ejection murmur
+
+Social History:
+She has no history of EtOH, tobacco, or illicit drug
+use. She is currently unemployed and seeking disability.
+
+
+Family History:
+Both parents have HTN and T2DM.
+
+Physical Exam:
+GEN: Awake, alert, and oriented
+HEENT: PERRLA. MMM. no JVD. neck supple. No cervical LAD
+Cards: RRR, S1/S2 normal. II/VI systolic ejection murmur heard
+best at the L upper sternal border.
+Pulm: CTABL with no crackles or wheezes.
+Abd: BS+, soft, NT, no rebound/guarding, no HSM, no [**Doctor Last Name 515**]
+sign
+Extremities: wwp, no edema. radials, DPs, PTs 2+.
+Skin: no rashes or bruising. no skin tenting.
+Neuro: CNs II-XII intact.
+
+Pertinent Results:
+Admission Labs: 09:22AM
+WBC-12.9* RBC-4.58 HGB-13.0 HCT-36.5 MCV-80* PLT COUNT-466*
+LIPASE-22  ALT(SGPT)-10 AST(SGOT)-16 ALK PHOS-105 TOT BILI-0.5
+GLUCOSE-260* UREA N-48* CREAT-2.4* SODIUM-138 POTASSIUM-4.9
+CL-101 CO2-11*
+LACTATE-3.0
+
+Discharge Labs: [**2117-9-16**] 07:10AM
+WBC-6.8 RBC-3.67* Hgb-11.4* Hct-33.2* MCV-82 Plt Ct-298
+Glucose-120* UreaN-20 Creat-2.3* Na-137 K-3.7 Cl-104 HCO3-23
+AnGap-14
+Calcium-8.7 Phos-3.5 Mg-2.0
+
+Radiology:
+CXR: No evidence of pneumonia or other pathological
+abnormalities. No
+pleural effusions. No pulmonary edema. Normal size of the
+cardiac
+silhouette.
+
+Microbiology: Urine culture negative, blood cultures no growth
+to date, stool for C.difficile negative
+
+
+Brief Hospital Course:
+# HTN: Hypertensive with SBP in 190s initially, attributed to
+DKA. As she improved, her blood pressures normalized and she 
+was re-started on her home Lopressor and Midodrine regimen.
+
+# Coffee grounds emesis: Emesis started off as clear, then with
+prolonged wretching, she started having coffee-grounds vomiting.
+This had also occurred on prior admissions for DKA with
+associated vomiting. Her hematocrit remained stable and her
+hematemesis self-resolved.
+
+# Acute on chronic kidney disease, Stage III: Patient's creatinine on
+admission was 2.7, trending down to 2.1-2.3 following fluids,
+consistent with her known CKD secondary to diabetic nephropathy.
+
+
+Medications on Admission:
+1. citalopram 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+2. Levemir 100 unit/mL Solution Sig: Twenty Four (24) units
+Subcutaneous every AM.
+3. Levemir 100 unit/mL Solution Sig: Twelve (12) units
+Subcutaneous at bedtime.
+4. Humalog 100 unit/mL Solution Sig: sliding scale as directed
+Subcutaneous four times a day: Please use sliding scale as
+directed by MD [**First Name8 (NamePattern2) 767**] [**Last Name (Titles) **].
+5. metoprolol tartrate 50 mg Tablet Sig: 2 Tablets PO DAILY
+(Daily): take in the evening.
+6. promethazine 25 mg Tablet Sig: 0.5 Tablet PO Q8H (every 8
+hours) as needed for nausea.
+7. gabapentin 300 mg Capsule Sig: One (1) Capsule PO Q12H (every 12 hours).
+Disp:*60 Capsule(s)* Refills:*2*
+8. duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Two (2)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily): Please take
+only 1 capsule daily (30 mg) for first 2 weeks of treatment.
+Disp:*60 Capsule, Delayed Release(E.C.)(s)* Refills:*2*
+9. midodrine 5 mg Tablet Sig: 1.5 Tablets PO every four (4)
+hours: Can hold while sleeping.
+Disp:*270 Tablet(s)* Refills:*2*
+
+
+Discharge Medications:
+1. citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. gabapentin 300 mg Capsule Sig: One (1) Capsule PO Q12H (every
+12 hours).
+3. duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+4. metoprolol tartrate 25 mg Tablet Sig: Three (3) Tablet PO
+Once Daily at 6 PM.
+5. midodrine 2.5 mg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily).
+6. Levemir 100 unit/mL Solution Sig: As directed by [**Last Name (un) **] units
+Subcutaneous As directed.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Diabetic keotacidosis
+Hematemesis (blood in your vomit)
+Hypertension
+Chronic renal insufficiency
